@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filipe costa</h1>
-<h3 align="center">First of all , i just want to say thank you for being here. My names is filipe, im a software developer and also a musician. Whith six years of experience, i can also say im a mobile developer and front-end web developer. here you will check all of my works and the projects that i made professionaly and to practice and study. Thank you.</h3>
+<h3 align="center">First of all , i just want to say thank you for being here. My name is filipe, im a software developer and also a musician. Whith six years of experience, i can also say im a mobile developer and front-end web developer. here you will check all of my works and the projects that i made professionaly and to practice and study. Thank you.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devfcosta&label=Profile%20views&color=0e75b6&style=flat" alt="devfcosta" /> </p>
 
